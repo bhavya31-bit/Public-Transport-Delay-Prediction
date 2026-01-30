@@ -6,7 +6,6 @@ This project implements a **machine learning–based public transport delay pred
 
 An interactive **Gradio web application** is included to allow users to make real-time delay predictions.
 
----
 
 ## 🎯 Objectives
 
@@ -15,8 +14,4 @@ An interactive **Gradio web application** is included to allow users to make rea
 - Train a well-optimized Random Forest regression model
 - Visualize actual vs predicted delay values
 - Deploy a simple web interface for user interaction
-
----
-
-## 📂 Project Structure
 
